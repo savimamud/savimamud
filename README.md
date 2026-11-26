@@ -11,7 +11,7 @@ Estudiante de **Ingeniería en Sistemas de Información** en la UTN FRC (Córdob
   Aplicación que registra el cierre de órdenes de inspección y notifica por mail y monitor.
   *Java, Swing, SQLite, patrón Observer*
 
-  - **[Predicción de ascensos al Everest](https://github.com/savimamud/ciencia-de-datos-everest)**
+- **[Predicción de ascensos al Everest](https://github.com/savimamud/ciencia-de-datos-everest)**
   Modelos de clasificación para estimar qué escaladores llegan a la cima, trabajados en equipo con Scrum en 4 sprints.
   *Python, Colab, Regresión Logística, Random Forest, XGBoost*
 
