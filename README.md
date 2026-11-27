@@ -15,6 +15,10 @@ Estudiante de **Ingeniería en Sistemas de Información** en la UTN FRC (Córdob
   Modelos de clasificación para estimar qué escaladores llegan a la cima, trabajados en equipo con Scrum en 4 sprints.
   *Python, Colab, Regresión Logística, Random Forest, XGBoost*
 
+- **[Simulación de un vacunatorio](https://github.com/savimamud/simulacion-vacunatorio)**
+  Simulación de eventos discretos de un vacunatorio, con interfaz web, trabajada en equipo.
+  *Java, JavaScript, Runge-Kutta*
+
 ## Tecnologías
 
 **Lenguajes:** Python · Java · JavaScript · SQL
