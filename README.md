@@ -28,4 +28,4 @@ Estudiante de **Ingeniería en Sistemas de Información** en la UTN FRC (Córdob
 
 ## Contacto
 
-[LinkedIn](https://www.linkedin.com/in/savina-mamud-b032353a0) · savimamud@gmail.com
+[LinkedIn](https://www.linkedin.com/in/savina-mamud-b032353a0) · savimamud@gmail.com · +543517532929
